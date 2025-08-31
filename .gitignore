@@ -170,3 +170,6 @@ cython_debug/
 /enhanced_tuning_dir
 /tuning
 /models
+*.cbm
+*.joblib
+*.pth
